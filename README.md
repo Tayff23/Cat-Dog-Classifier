@@ -45,10 +45,7 @@ The model successfully predicted the test image as **Class 2** with a confidence
 ## Screenshots
 
 ### Model Training
-
-![Model Training](Screenshots/prediction_result.png)
+![Model Training](Cat-Dog-Classifier/Screenshots/train_model.png)
 
 ### Prediction Result
-
-![Prediction Result](Screenshots/train_model.png)
- 
+![Prediction Result](Cat-Dog-Classifier/Screenshots/prediction_result.png)
