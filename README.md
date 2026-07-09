@@ -46,9 +46,9 @@ The model successfully predicted the test image as **Class 2** with a confidence
 
 ### Model Training
 
-![Model Training](Screenshots/train_model.png)
+![Model Training](Screenshots/prediction_result.png)
 
 ### Prediction Result
 
-![Prediction Result](Screenshots/prediction_result.jfif)
+![Prediction Result](Screenshots/train_model.png)
  
